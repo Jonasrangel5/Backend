@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\request\\usuarios\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\request\\usuarios\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\request\\usuarios\\editarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\request\\usuarios\\editarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\entities\\auth\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\entities\\auth\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\fisoterapia.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\fisoterapia.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\services\\clase\\authc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\services\\clase\\authc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\models\\responselistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\models\\responselistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\request\\tipousuarios\\tipousuariocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\request\\tipousuarios\\tipousuariocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\request\\tipousuarios\\tipousuarioeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\request\\tipousuarios\\tipousuarioeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|c:\\users\\nash\\desktop\\fisoterapianash\\fisoterapia\\fisoterapia\\models\\responseerror\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372C0D-4567-4721-8A1F-515902F6A5AE}|Fisoterapia\\Fisoterapia.csproj|solutionrelative:fisoterapia\\models\\responseerror\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthC.cs",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Services\\Clase\\AuthC.cs",
+              "RelativeDocumentMoniker": "Fisoterapia\\Services\\Clase\\AuthC.cs",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Services\\Clase\\AuthC.cs",
+              "RelativeToolTip": "Fisoterapia\\Services\\Clase\\AuthC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:55:23.102Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Program.cs",
+              "RelativeDocumentMoniker": "Fisoterapia\\Program.cs",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Program.cs",
+              "RelativeToolTip": "Fisoterapia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T21:04:34.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Request\\Usuarios\\EditarUsuario.cs",
+              "RelativeDocumentMoniker": "Fisoterapia\\Request\\Usuarios\\EditarUsuario.cs",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Request\\Usuarios\\EditarUsuario.cs",
+              "RelativeToolTip": "Fisoterapia\\Request\\Usuarios\\EditarUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:55:23.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\appsettings.json",
+              "RelativeDocumentMoniker": "Fisoterapia\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\appsettings.json",
+              "RelativeToolTip": "Fisoterapia\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T04:59:03.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Entities\\Auth\\TipoUsuario.cs",
+              "RelativeDocumentMoniker": "Fisoterapia\\Entities\\Auth\\TipoUsuario.cs",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Entities\\Auth\\TipoUsuario.cs",
+              "RelativeToolTip": "Fisoterapia\\Entities\\Auth\\TipoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:55:23.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Fisoterapia\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Fisoterapia\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:55:23.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fisoterapia.http",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Fisoterapia.http",
+              "RelativeDocumentMoniker": "Fisoterapia\\Fisoterapia.http",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Fisoterapia.http",
+              "RelativeToolTip": "Fisoterapia\\Fisoterapia.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-05T14:04:02.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Request\\Usuarios\\CrearUsuario.cs",
+              "RelativeDocumentMoniker": "Fisoterapia\\Request\\Usuarios\\CrearUsuario.cs",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Request\\Usuarios\\CrearUsuario.cs",
+              "RelativeToolTip": "Fisoterapia\\Request\\Usuarios\\CrearUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:55:23.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoUsuarioCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Request\\TipoUsuarios\\TipoUsuarioCreate.cs",
+              "RelativeDocumentMoniker": "Fisoterapia\\Request\\TipoUsuarios\\TipoUsuarioCreate.cs",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Request\\TipoUsuarios\\TipoUsuarioCreate.cs",
+              "RelativeToolTip": "Fisoterapia\\Request\\TipoUsuarios\\TipoUsuarioCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:55:23.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseListDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Models\\ResponseListDto.cs",
+              "RelativeDocumentMoniker": "Fisoterapia\\Models\\ResponseListDto.cs",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Models\\ResponseListDto.cs",
+              "RelativeToolTip": "Fisoterapia\\Models\\ResponseListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:55:23.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Models\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Fisoterapia\\Models\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Models\\AuthResponse.cs",
+              "RelativeToolTip": "Fisoterapia\\Models\\AuthResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:55:23.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TipoUsuarioEditar.cs",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Request\\TipoUsuarios\\TipoUsuarioEditar.cs",
+              "RelativeDocumentMoniker": "Fisoterapia\\Request\\TipoUsuarios\\TipoUsuarioEditar.cs",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Request\\TipoUsuarios\\TipoUsuarioEditar.cs",
+              "RelativeToolTip": "Fisoterapia\\Request\\TipoUsuarios\\TipoUsuarioEditar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:55:23.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Models\\ResponseError\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Fisoterapia\\Models\\ResponseError\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Models\\ResponseError\\BadRequestException.cs",
+              "RelativeToolTip": "Fisoterapia\\Models\\ResponseError\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:55:23.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
