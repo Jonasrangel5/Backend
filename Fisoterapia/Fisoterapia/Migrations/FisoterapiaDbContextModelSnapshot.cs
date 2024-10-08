@@ -22,6 +22,89 @@ namespace Fisoterapia.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("Fisoterapia.Entities.Auth.InformaAvance", b =>
+                {
+                    b.Property<int>("IdInforma")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdInforma"));
+
+                    b.Property<string>("Comentarios")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("EjerciciosRealizados")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("EvolucionLesion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("IdLesion")
+                        .HasColumnType("int");
+
+                    b.Property<Guid>("IdUsuario")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("IdInforma");
+
+                    b.HasIndex("IdLesion");
+
+                    b.HasIndex("IdUsuario");
+
+                    b.ToTable("InformasAvance");
+                });
+
+            modelBuilder.Entity("Fisoterapia.Entities.Auth.Lesion", b =>
+                {
+                    b.Property<int>("IdLesion")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdLesion"));
+
+                    b.Property<string>("Descripcion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("IdLesion");
+
+                    b.ToTable("Lesiones");
+                });
+
+            modelBuilder.Entity("Fisoterapia.Entities.Auth.Reseta", b =>
+                {
+                    b.Property<int>("IdReseta")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdReseta"));
+
+                    b.Property<string>("Comentarios")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Evolucion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("IdLesion")
+                        .HasColumnType("int");
+
+                    b.Property<Guid>("IdUsuario")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("IdReseta");
+
+                    b.HasIndex("IdLesion");
+
+                    b.HasIndex("IdUsuario");
+
+                    b.ToTable("Resetas");
+                });
+
             modelBuilder.Entity("Fisoterapia.Entities.Auth.TipoUsuario", b =>
                 {
                     b.Property<int>("IdTipoUsuario")
@@ -102,6 +185,44 @@ namespace Fisoterapia.Migrations
                     b.HasIndex("IdTipoUsuario");
 
                     b.ToTable("Usuario", "usu");
+                });
+
+            modelBuilder.Entity("Fisoterapia.Entities.Auth.InformaAvance", b =>
+                {
+                    b.HasOne("Fisoterapia.Entities.Auth.Lesion", "Lesion")
+                        .WithMany()
+                        .HasForeignKey("IdLesion")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Fisoterapia.Entities.Auth.Usuario", "Usuario")
+                        .WithMany()
+                        .HasForeignKey("IdUsuario")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Lesion");
+
+                    b.Navigation("Usuario");
+                });
+
+            modelBuilder.Entity("Fisoterapia.Entities.Auth.Reseta", b =>
+                {
+                    b.HasOne("Fisoterapia.Entities.Auth.Lesion", "Lesion")
+                        .WithMany()
+                        .HasForeignKey("IdLesion")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Fisoterapia.Entities.Auth.Usuario", "Usuario")
+                        .WithMany()
+                        .HasForeignKey("IdUsuario")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Lesion");
+
+                    b.Navigation("Usuario");
                 });
 
             modelBuilder.Entity("Fisoterapia.Entities.Auth.Usuario", b =>

@@ -5020,24 +5020,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nash\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\dylan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Fisoterapia.csproj",
+      "projectUniqueName": "C:\\Users\\dylan\\Desktop\\nash\\Backend\\Fisoterapia\\Fisoterapia\\Fisoterapia.csproj",
       "projectName": "Fisoterapia",
-      "projectPath": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\Fisoterapia.csproj",
-      "packagesPath": "C:\\Users\\Nash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nash\\Desktop\\FisoterapiaNash\\Fisoterapia\\Fisoterapia\\obj\\",
+      "projectPath": "C:\\Users\\dylan\\Desktop\\nash\\Backend\\Fisoterapia\\Fisoterapia\\Fisoterapia.csproj",
+      "packagesPath": "C:\\Users\\dylan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dylan\\Desktop\\nash\\Backend\\Fisoterapia\\Fisoterapia\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Nash\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\dylan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5133,7 +5128,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

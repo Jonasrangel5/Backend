@@ -1,0 +1,153 @@
+[
+  {
+    "ContainingType": "Fisoterapia.Controllers.AuthController",
+    "Method": "CrearTipo",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Fisoterapia.Request.TipoUsuarios.TipoUsuarioCreate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Fisoterapia.Models.IdResponseInt",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Fisoterapia.Controllers.AuthController",
+    "Method": "EditarTipo",
+    "RelativePath": "api/Auth/{IdTipoUsuario}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdTipoUsuario",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "Fisoterapia.Request.TipoUsuarios.TipoUsuarioEditar",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Fisoterapia.Models.IdResponseInt",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Fisoterapia.Controllers.AuthController",
+    "Method": "CrearUsuario",
+    "RelativePath": "api/Auth/CrearUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Fisoterapia.Request.Usuarios.CrearUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Fisoterapia.Models.IdResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Fisoterapia.Controllers.AuthController",
+    "Method": "CreateInformaAvance",
+    "RelativePath": "api/Auth/InformaAvance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "informaAvance",
+        "Type": "Fisoterapia.Entities.Auth.InformaAvance",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fisoterapia.Controllers.AuthController",
+    "Method": "GetAllInformasAvance",
+    "RelativePath": "api/Auth/InformasAvance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fisoterapia.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Fisoterapia.Request.Usuarios.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fisoterapia.Controllers.AuthController",
+    "Method": "CreateReseta",
+    "RelativePath": "api/Auth/Reseta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reseta",
+        "Type": "Fisoterapia.Entities.Auth.Reseta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fisoterapia.Controllers.AuthController",
+    "Method": "GetAllResetas",
+    "RelativePath": "api/Auth/Resetas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

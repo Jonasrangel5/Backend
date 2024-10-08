@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fisoterapia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cae57e88c9780968bbb262ba542af033f37f7a86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfa2d954c4e99826272b359ffabc373da06cf719")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fisoterapia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fisoterapia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
